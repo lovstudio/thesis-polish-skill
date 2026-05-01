@@ -1,4 +1,4 @@
-# lovstudio:thesis-polish
+# lovstudio-thesis-polish
 
 将 MBA 论文从初稿提升至全国优秀论文水准。涵盖语言润色、结构优化、论证强化、创新点凸显四个维度。
 
@@ -7,7 +7,7 @@ Part of [lovstudio/skills](https://github.com/lovstudio/skills) — by [lovstudi
 ## Install
 
 ```bash
-npx skills add lovstudio/skills --skill lovstudio:thesis-polish
+npx lovstudio skills add thesis-polish -g -y
 ```
 
 No dependencies — pure AI instructions.
