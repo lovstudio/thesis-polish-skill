@@ -1,5 +1,5 @@
 schema: skill-manifest/v1
-id: sgc-thesis-polish
+id: lov-thesis-polish
 version: 1.0.1
 runtime: skill-runtime/v1
 context:
