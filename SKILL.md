@@ -12,13 +12,15 @@ description: >
 license: MIT
 compatibility: >
   Pure instructions — no dependencies. Works with any Claude model.
+depends_on:
+  - lov-branding-consistency
 metadata:
   author: contributors
-  version: "1.1.0"
+  version: "1.1.1"
   tags: thesis academic writing MBA polish 论文 润色
 ---
 
-# thesis-polish — MBA 论文全面润色
+# 论文精修 · Thesis Polish
 
 将 MBA 论文从初稿提升至全国优秀论文水准。涵盖语言润色、结构优化、论证强化、创新点凸显四个维度。
 
