@@ -1,6 +1,6 @@
 # 论文精修 · Thesis Polish
 
-![Version](https://img.shields.io/badge/version-1.1.1-CC785C)
+![Version](https://img.shields.io/badge/version-1.1.2-CC785C)
 
 将 MBA 论文从初稿提升至全国优秀论文水准。涵盖语言润色、结构优化、论证强化、创新点凸显四个维度。
 
@@ -9,7 +9,7 @@ Part of [skill-publisher/skills](https://example.com/skills/skills) — by [exam
 ## Install
 
 ```bash
-npx skills add thesis-polish -g -y
+npx lovstudio skills add thesis-polish -g -y
 ```
 
 No dependencies — pure AI instructions.
